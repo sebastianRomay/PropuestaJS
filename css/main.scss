@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8%;
+    background-image: url(https://www.publicdomainpictures.net/pictures/20000/velka/hearts-wallpaper.jpg);
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width:30vw;
+        gap: 2rem;
+        height: 40vh;
+        margin: 5rem;
+    }
+}
